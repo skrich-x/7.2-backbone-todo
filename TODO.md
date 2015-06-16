@@ -1,9 +1,9 @@
 -[x]Render Static HTML
 -[x]Render with Handlebars Templates
 -[x]Define view for todo-list, initialize, render
--[]
--[]
--[]
+-[x]Render View in doc
+-[x]create model and collection - instantiate
+-[]display list in DOM
 -[]
 -[]
 -[]
