@@ -2,6 +2,7 @@
   'use strict';
 
   $(document).ready(function(){
-    $('body').prepend(JST.application());
+    $('#main').prepend(JST.taskList());
+    $('#main').html(JST.taskItem());
   });
 })();

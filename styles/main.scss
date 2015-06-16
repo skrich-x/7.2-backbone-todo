@@ -1,4 +1,4 @@
-/* @import '../bower_components/bourbon/app/assets/stylesheets/bourbon';
+@import '../bower_components/bourbon/app/assets/stylesheets/bourbon';
 @import '../bower_components/neat/app/assets/stylesheets/neat';
 
 // Typography
@@ -18,7 +18,7 @@ body {
   font-family: $base-font-family;
   background-color: $base-background-color;
   color: $base-font-color;
-} */
+}
 
 html,
 body {
