@@ -1,6 +1,6 @@
 -[x]Render Static HTML
 -[x]Render with Handlebars Templates
--[]
+-[x]Define view for todo-list, initialize, render
 -[]
 -[]
 -[]
