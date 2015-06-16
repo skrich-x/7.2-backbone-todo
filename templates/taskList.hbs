@@ -1,9 +1,9 @@
 
   <ul id="todo-list">
-    {{each this}}
+    {{#each this}}
       <li>
         <input type="checkbox" class="toggle">
-        <label>...</label><button class="destroy"></button>
+        <label>{{task}}</label><button class="destroy"></button>
       </li>
-    {{/each}}
+      {{/each}}
   </ul>
