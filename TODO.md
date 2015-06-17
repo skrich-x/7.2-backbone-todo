@@ -3,8 +3,9 @@
 -[x]Define view for todo-list, initialize, render
 -[x]Render View in doc
 -[x]create model and collection - instantiate
--[]display list in DOM
--[]
--[]
--[]
--[]
+-[x]display list in DOM
+-[x]Define view for todo-item
+-[ ]Define function to addtask
+-[ ]Replace Static Header with Template
+    & display( should look the same)
+-[ ]
